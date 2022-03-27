@@ -13,6 +13,6 @@ function handleClick(id) {
     }
 
     else if (id === "email") {
-        window.open("mailto:lokelivoon@gmail.com");
+        window.open("mailto:liz.puah@gmail.com");
     }
 }
